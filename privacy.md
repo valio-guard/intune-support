@@ -1,8 +1,10 @@
 # In Tune: Cycle Journal — Privacy Policy
 
-Updated November 5, 2026.
+Updated November 10, 2026.
 
-intune stores period dates, day logs, symptoms, moods, energy, notes, tags, cycle settings and retained saved Care state on the iPhone. Care and Apple Health connections are unavailable in this beta. The app has no user account, server, advertising, tracking or analytics code and does not transmit logs to the developer.
+intune stores period dates, day logs, symptoms, moods, energy, notes, tags, cycle settings and retained saved Care state on the iPhone. Care ideas are built into the app and work without a connection; intune doesn't send what you read or save. The app has no user account, server, advertising, tracking or analytics code and does not transmit logs to the developer.
+
+This beta doesn't connect to Apple Health. It doesn't ask for Health access and doesn't read or write any Health data. This policy describes what intune does; Apple's own Health and iCloud settings are separate.
 
 Logs and sensitive preferences are protected using iOS file protection and excluded from device backups. App lock uses iOS authentication; the app does not receive biometric templates or the device passcode. Optional local reminders are scheduled through iOS. Discreet wording is the default; explicit wording may reveal information to people who see notifications.
 

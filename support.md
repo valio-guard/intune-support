@@ -1,6 +1,6 @@
 # In Tune: Cycle Journal — Beta Support
 
-In Tune is a private period and cycle journal for iPhone. This small TestFlight beta is free and requires iOS 27.2 or later. Care content and Apple Health connections are unavailable in this beta. Estimates are not medical advice or birth control.
+In Tune is a private period and cycle journal for iPhone. This small TestFlight beta is free and requires iOS 27.2 or later. It includes built-in Care ideas. Apple Health isn't connected in this beta. Estimates are not medical advice or birth control.
 
 ## Report a problem
 
@@ -18,7 +18,7 @@ Do not uninstall the app to fix a problem: local history is excluded from iCloud
 
 ## Known beta limits
 
-Non-empty encrypted backup/restore has automated coverage with synthetic data; real two-phone/iCloud transfer remains unverified. On-device backup exclusion and file-protection checks remain unperformed. One initial tab hold/lift activation was reported to fail before later retries passed; no root cause was established. Further physical VoiceOver/large-text checks were deferred by the owner with simulator coverage accepted. Health Allow/workout-history paths are outside this beta.
+Non-empty encrypted backup/restore has automated coverage with synthetic data; real two-phone/iCloud transfer remains unverified. On-device backup exclusion and file-protection checks remain unperformed. One initial tab hold/lift activation was reported to fail before later retries passed; no root cause was established. Further physical VoiceOver/large-text checks were deferred by the owner with simulator coverage accepted. Apple Health isn't part of this beta.
 
 TestFlight builds expire after 90 days. Keep an encrypted backup and update when a new beta is provided.
 
