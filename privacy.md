@@ -1,6 +1,6 @@
 # In Tune: Cycle Journal — Privacy Policy
 
-Updated November 10, 2026.
+Updated November 11, 2026.
 
 intune stores period dates, day logs, symptoms, moods, energy, notes, tags, cycle settings and retained saved Care state on the iPhone. Care ideas are built into the app and work without a connection; intune doesn't send what you read or save. The app has no user account, server, advertising, tracking or analytics code and does not transmit logs to the developer.
 
